@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "download_url": "https://raw.githubusercontent.com/pineyb/cfoc-events-feed/main/plugin/cfoc-events.zip",
+  "requires": "6.4",
+  "tested": "7.1",
+  "changelog": "<p><strong>1.1.0</strong> — Events from the feed publish automatically; ones not yet confirmed by the organizer show a “Dates unconfirmed” tag. Suggestion emails include a one-click approve link. Plugin now updates itself from GitHub.</p>"
+}

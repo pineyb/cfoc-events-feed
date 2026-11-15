@@ -8,3 +8,6 @@ Public data feed for the Center for Offsite Construction (CfOC) Industry Events 
 - `status`: `confirmed` (checked on the organizer's site, published automatically), `unconfirmed` (secondary source only, goes to the site's Pending queue for review), `cancelled` (removed from the calendar).
 
 Listings are neutral and chronological, with no sponsored placement. Always confirm details with the organizer.
+
+## Plugin updates
+`plugin/cfoc-events.zip` is the current CfOC Industry Events WordPress plugin, and `plugin/info.json` announces its version. Sites running v1.1.0+ check this file and install newer versions automatically.
