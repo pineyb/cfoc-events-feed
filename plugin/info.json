@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "download_url": "https://raw.githubusercontent.com/pineyb/cfoc-events-feed/main/plugin/cfoc-events.zip",
   "requires": "6.4",
   "tested": "7.1",
-  "changelog": "<p><strong>1.1.1</strong> — Suggestions are never discarded by the spam check (browser autofill could trigger it); flagged ones arrive in Pending with \"possible spam\" in the email subject.</p><p><strong>1.1.0</strong> — Events from the feed publish automatically; ones not yet confirmed by the organizer show a “Dates unconfirmed” tag. Suggestion emails include a one-click approve link. Plugin now updates itself from GitHub.</p>"
+  "changelog": "<p><strong>1.2.0</strong> — Events that include CfOC leadership or Senior Research Fellows (current or past) are highlighted with a ★ “With CfOC” line, sort first in the calendar, and can be filtered with the “With CfOC people” checkbox. Editors can add people in the event sidebar.</p><p><strong>1.1.1</strong> — Suggestions are never discarded by the spam check (browser autofill could trigger it); flagged ones arrive in Pending with \"possible spam\" in the email subject.</p><p><strong>1.1.0</strong> — Events from the feed publish automatically; ones not yet confirmed by the organizer show a “Dates unconfirmed” tag. Suggestion emails include a one-click approve link. Plugin now updates itself from GitHub.</p>"
 }

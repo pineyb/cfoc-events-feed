@@ -76,6 +76,30 @@
       "airtable_id": "recz1n9tFieDORP8I"
     },
     {
+      "id": "future-of-construction-technology-boston-2026",
+      "title": "The Future of Construction Technology (panel)",
+      "start": "2026-11-18",
+      "end": "2026-11-18",
+      "location": "Boston, MA",
+      "venue": "Autodesk Technology Center, 23 Drydock Ave",
+      "organizer": "City of Boston Housing Innovation Lab with ULI Boston",
+      "url": "https://www.boston.gov/node/16633241",
+      "type": "Panel",
+      "region": "North America",
+      "online": false,
+      "description": "Evening panel (5–7 pm) on how new construction technology, including offsite and modular methods, can speed up housing delivery. Part of Boston Built Week 2026.",
+      "source_url": "https://www.boston.gov/node/16633241",
+      "last_verified": "2026-11-15",
+      "status": "confirmed",
+      "cfoc_people": [
+        {
+          "name": "Jason Van Nest",
+          "group": "Leadership",
+          "role": "Panelist"
+        }
+      ]
+    },
+    {
       "id": "vhfa-statewide-housing-conference-2026",
       "title": "VHFA Statewide Housing Conference 2026",
       "start": "2026-11-18",
