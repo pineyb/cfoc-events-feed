@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-15",
+  "generated": "2026-11-17",
   "notes": "Researched list of offsite / industrialized construction events. Dates checked against organizer pages where available; items marked unconfirmed come from secondary listings and are imported as Pending.",
   "events": [
     {
@@ -89,7 +89,7 @@
       "online": false,
       "description": "Evening panel (5–7 pm) on how new construction technology, including offsite and modular methods, can speed up housing delivery. Part of Boston Built Week 2026.",
       "source_url": "https://www.boston.gov/node/16633241",
-      "last_verified": "2026-11-15",
+      "last_verified": "2026-11-17",
       "status": "confirmed",
       "cfoc_people": [
         {
@@ -155,20 +155,21 @@
     },
     {
       "id": "ocn-summit-washington-dc-2026",
-      "title": "Offsite Construction Summit — Washington, DC",
+      "title": "Offsite Construction Summit, Washington-Dulles 2026",
       "start": "2026-11-19",
       "end": "2026-11-19",
       "location": "Chantilly, VA",
       "venue": "Westfields Marriott Washington Dulles",
-      "organizer": "Offsite Construction Network",
+      "organizer": "Offsite Construction Network (Hardiman-Williams LLC)",
       "url": "https://offsiteconstructionnetwork.com/washington-dc-2026/",
-      "type": "Summit",
+      "type": "Conference",
       "region": "North America",
       "online": false,
-      "description": "One-day regional summit on offsite delivery for housing, healthcare and data centers, with manufacturer exhibits and case-study presentations. Supported by the Modular Building Institute.",
+      "description": "A one-day regional offsite summit near Washington DC with six presentations and an exhibit hall, focused on housing, healthcare and data center construction.",
       "source_url": "https://offsiteconstructionnetwork.com/washington-dc-2026/",
       "last_verified": "2026-11-05",
-      "status": "confirmed"
+      "status": "confirmed",
+      "airtable_id": "recqzNrqQJ7PlCaIp"
     },
     {
       "id": "passive-house-building-bunker-hill-housing-redevelopment-tour-2026",
@@ -202,25 +203,60 @@
       "online": false,
       "description": "Canada's largest built-environment show, combining Construct Canada, PM Expo, HomeBuilder & Renovator Expo and the World of Concrete Toronto pavilion, with a large education program.",
       "source_url": "https://informaconnect.com/the-buildings-show/construct-canada/",
-      "last_verified": "2026-11-15",
+      "last_verified": "2026-11-17",
+      "status": "confirmed"
+    },
+    {
+      "id": "buildoffsite-greencore-factory-tour-2026",
+      "title": "BUILDOFFSITE: Greencore Homes Factory Tour",
+      "start": "2026-12-02",
+      "end": "2026-12-02",
+      "location": "Bicester, UK",
+      "venue": "Greencore Homes, Bicester Park",
+      "organizer": "BUILDOFFSITE with Greencore Homes",
+      "url": "https://www.buildoffsite.com/events",
+      "type": "Tour",
+      "region": "Europe",
+      "online": false,
+      "description": "Guided visit to a timber-panel home factory and its show homes, organized by the UK offsite industry network BUILDOFFSITE.",
+      "source_url": "https://www.buildoffsite.com/events",
+      "last_verified": "2026-11-17",
+      "status": "confirmed"
+    },
+    {
+      "id": "internationales-holzbau-forum-2026",
+      "title": "30th Internationales Holzbau-Forum (IHF 2026)",
+      "start": "2026-12-02",
+      "end": "2026-12-04",
+      "location": "Innsbruck, Austria",
+      "venue": "Congress Innsbruck",
+      "organizer": "Forum Holzbau",
+      "url": "https://events.forum-holzbau.com/IHF/Program_E.php",
+      "type": "Conference",
+      "region": "Europe",
+      "online": false,
+      "description": "Annual European timber construction forum whose program includes sessions on prefabricated housing, digital prefabrication and prefabricated facade retrofits.",
+      "source_url": "https://events.forum-holzbau.com/IHF/Program_E.php",
+      "last_verified": "2026-11-17",
       "status": "confirmed"
     },
     {
       "id": "ocn-summit-houston-2026",
-      "title": "Offsite Construction Summit — Houston",
+      "title": "Offsite Construction Summit, Houston 2026",
       "start": "2026-12-09",
       "end": "2026-12-09",
       "location": "Houston, TX",
       "venue": "Hilton Houston North",
-      "organizer": "Offsite Construction Network",
+      "organizer": "Offsite Construction Network (Hardiman-Williams LLC)",
       "url": "https://offsiteconstructionnetwork.com/houston-2026/",
-      "type": "Summit",
+      "type": "Conference",
       "region": "North America",
       "online": false,
-      "description": "Regional edition of the Offsite Construction Network's travelling summit, focused on offsite delivery for the Gulf Coast's industrial and infrastructure markets.",
+      "description": "A one-day regional offsite summit in Houston with presentations and an exhibit hall, focused on oil and gas, workforce housing, data centers and industrial structures.",
       "source_url": "https://offsiteconstructionnetwork.com/houston-2026/",
       "last_verified": "2026-11-05",
-      "status": "confirmed"
+      "status": "confirmed",
+      "airtable_id": "recOm8tSYb1wLxmXn"
     },
     {
       "id": "bau-munich-2027",
@@ -236,7 +272,7 @@
       "online": false,
       "description": "Biennial world trade fair for architecture, materials and building systems; serial, modular and industrialized construction is a recurring theme.",
       "source_url": "https://bau-muenchen.com/en/press/at-the-fair/opening-hours",
-      "last_verified": "2026-11-15",
+      "last_verified": "2026-11-17",
       "status": "confirmed"
     },
     {
@@ -253,29 +289,30 @@
       "online": false,
       "description": "Annual convention of the precast concrete industry, with technical committee meetings and education, co-located with NPCA's The Precast Show exhibit floor.",
       "source_url": "https://www.pci.org/PCI/News-Events/PCI_Events.aspx",
-      "last_verified": "2026-11-15",
+      "last_verified": "2026-11-17",
       "status": "confirmed"
     },
     {
       "id": "nahb-ibs-2027",
-      "title": "NAHB International Builders' Show (IBS) 2027",
+      "title": "NAHB IBS 2027 (International Builders' Show)",
       "start": "2027-02-02",
       "end": "2027-02-04",
       "location": "Las Vegas, NV",
       "venue": "Las Vegas Convention Center",
       "organizer": "National Association of Home Builders (NAHB)",
-      "url": "https://www.buildersshow.com/",
+      "url": "https://www.nahb.org/news-and-economics/press-releases/2026/09/registration-now-open-for-nahb-international-builders-show-in-las-vegas",
       "type": "Trade Show",
       "region": "North America",
       "online": false,
-      "description": "The largest annual light-construction show, held as part of Design & Construction Week with KBIS; includes sessions on offsite, panelized and factory-built housing.",
-      "source_url": "https://www.buildersshow.com/future-ibs-dates",
-      "last_verified": "2026-11-15",
-      "status": "confirmed"
+      "description": "The largest annual light construction show, with residential products, technology and education, returning to Las Vegas as its permanent home. Registration is open.",
+      "source_url": "https://www.nahb.org/news-and-economics/press-releases/2026/09/registration-now-open-for-nahb-international-builders-show-in-las-vegas",
+      "last_verified": "2026-11-06",
+      "status": "confirmed",
+      "airtable_id": "recNrEHxNKLyB0QUR"
     },
     {
       "id": "buildex-vancouver-offsite-2027",
-      "title": "BUILDEX Vancouver 2027 — Offsite Zone",
+      "title": "BUILDEX Vancouver 2027",
       "start": "2027-02-10",
       "end": "2027-02-11",
       "location": "Vancouver, BC",
@@ -285,10 +322,11 @@
       "type": "Trade Show",
       "region": "North America",
       "online": false,
-      "description": "Western Canada's building industry show, with a dedicated expo zone and conference stream on prefabrication, modular and offsite construction.",
-      "source_url": "https://informaconnect.com/buildex-vancouver/buildex-offsite/",
-      "last_verified": "2026-11-15",
-      "status": "confirmed"
+      "description": "A Canadian building trade show and conference with a dedicated prefabrication, modular and offsite stream and a supplier zone.",
+      "source_url": "https://informaconnect.com/buildex-vancouver/prefabrication-modular-offsite-construction",
+      "last_verified": "2026-11-06",
+      "status": "confirmed",
+      "airtable_id": "rec4t2ISkL4MQQlZp"
     },
     {
       "id": "uli-housing-opportunity-conference-2027",
@@ -345,6 +383,23 @@
       "airtable_id": "recPxCB6tH2cjfGiN"
     },
     {
+      "id": "modular-prefab-expo-poland-2027",
+      "title": "Modular & Prefab Expo Poland 2027",
+      "start": "2027-03-02",
+      "end": "2027-03-04",
+      "location": "Nadarzyn, Poland",
+      "venue": "Ptak Warsaw Expo",
+      "organizer": "Ptak Warsaw Expo",
+      "url": "https://modularprefabexpopoland.com/en/",
+      "type": "Trade Show",
+      "region": "Europe",
+      "online": false,
+      "description": "Trade fair near Warsaw focused on modular and prefabricated building, covering modular and timber-frame homes and factory production equipment.",
+      "source_url": "https://warsawexpo.eu/en/fair-calendar/modular-prefab-expo/",
+      "last_verified": "2026-11-17",
+      "status": "confirmed"
+    },
+    {
       "id": "international-mass-timber-conference-2027",
       "title": "International Mass Timber Conference 2027",
       "start": "2027-03-16",
@@ -358,7 +413,7 @@
       "online": false,
       "description": "The largest gathering of the mass timber supply chain — building tours, technical sessions and an expo covering CLT, glulam and prefabricated timber systems.",
       "source_url": "https://masstimberconference.com/portland-event/",
-      "last_verified": "2026-11-15",
+      "last_verified": "2026-11-17",
       "status": "confirmed"
     },
     {
@@ -387,14 +442,15 @@
       "location": "Orlando, FL",
       "venue": "Rosen Shingle Creek",
       "organizer": "Modular Building Institute (MBI)",
-      "url": "https://www.modular.org/2026-world-of-modular/",
+      "url": "https://www.modular.org/2027-world-of-modular/",
       "type": "Conference",
       "region": "North America",
       "online": false,
-      "description": "MBI's annual convention and trade show for commercial modular and offsite construction: education, exhibit hall, awards and industry networking.",
-      "source_url": "https://www.modular.org/2026-world-of-modular/",
-      "last_verified": "2026-11-15",
-      "status": "confirmed"
+      "description": "MBI's four-day convention and trade show for the commercial modular and offsite construction industry, with speakers, exhibitors and networking.",
+      "source_url": "https://www.modular.org/2027-world-of-modular/",
+      "last_verified": "2026-11-05",
+      "status": "confirmed",
+      "airtable_id": "recIJPND5iCX6w2Aq"
     },
     {
       "id": "mhi-congress-expo-2027",
@@ -402,15 +458,15 @@
       "start": "2027-04-12",
       "end": "2027-04-14",
       "location": "Orlando, FL",
-      "venue": "",
+      "venue": "Rosen Shingle Creek",
       "organizer": "Manufactured Housing Institute (MHI)",
-      "url": "https://www.manufacturedhousing.org/events-landing/congress-and-expo/",
+      "url": "https://www.manufacturedhousing.org/event/2027-mhi-congress-expo/",
       "type": "Conference",
       "region": "North America",
       "online": false,
       "description": "The manufactured housing industry's main annual meeting, with education on factory-built home design, production, finance and policy, plus an exhibit floor.",
-      "source_url": "https://www.manufacturedhousing.org/events-landing/congress-and-expo/",
-      "last_verified": "2026-11-15",
+      "source_url": "https://www.manufacturedhousing.org/event/2027-mhi-congress-expo/",
+      "last_verified": "2026-11-17",
       "status": "confirmed"
     },
     {
@@ -467,6 +523,23 @@
       "status": "confirmed"
     },
     {
+      "id": "ligna-2027",
+      "title": "LIGNA 2027 (including LIGNA.Builds)",
+      "start": "2027-05-10",
+      "end": "2027-05-14",
+      "location": "Hannover, Germany",
+      "venue": "Hannover Exhibition Grounds",
+      "organizer": "Deutsche Messe AG",
+      "url": "https://www.ligna.de/en/side-events/ligna-builds/",
+      "type": "Trade Show",
+      "region": "Europe",
+      "online": false,
+      "description": "International woodworking machinery fair that includes prefabricated house production lines; its LIGNA.Builds feature assembles a timber-frame house on site to show the industrialized wood construction chain.",
+      "source_url": "https://www.ligna.de/en/news/news-articles/ligna-with-new-event-dates-from-2027-onwards",
+      "last_verified": "2026-11-17",
+      "status": "confirmed"
+    },
+    {
       "id": "ukcw-london-offsite-2027",
       "title": "UK Construction Week London 2027 — Offsite",
       "start": "2027-05-11",
@@ -503,20 +576,21 @@
     },
     {
       "id": "aia-conference-2027",
-      "title": "AIA Conference on Architecture & Design 2027 (AIA27)",
+      "title": "AIA27 Conference on Architecture & Design",
       "start": "2027-05-19",
       "end": "2027-05-22",
       "location": "Philadelphia, PA",
       "venue": "Pennsylvania Convention Center",
       "organizer": "American Institute of Architects (AIA)",
-      "url": "https://conferenceonarchitecture.com/",
+      "url": "https://www.aia.org/community/events/aia-conference-architecture-design",
       "type": "Conference",
       "region": "North America",
       "online": false,
-      "description": "The AIA's national conference and expo (expo May 20–21), with continuing education for architects including sessions on prefabrication and design for manufacture.",
-      "source_url": "https://conferenceonarchitecture.com/frequently-asked-questions/",
-      "last_verified": "2026-11-15",
-      "status": "confirmed"
+      "description": "AIA's national conference and expo, with education sessions, CE credits and architect-led tours. Expo runs May 20 to 21.",
+      "source_url": "https://www.aia.org/community/events/aia-conference-architecture-design",
+      "last_verified": "2026-11-05",
+      "status": "confirmed",
+      "airtable_id": "recW9Q5bViDSscoaP"
     },
     {
       "id": "expo-construcao-offsite-2027",
@@ -534,6 +608,23 @@
       "source_url": "https://www.cantonfair.net/updated-information/maior-exposicao-de-construcao-modular-offsite-da-america-latina-2027-june-sao-paulo-will-be-from-2027-06-15",
       "last_verified": "2026-11-15",
       "status": "unconfirmed"
+    },
+    {
+      "id": "wcte-2027",
+      "title": "World Conference on Timber Engineering (WCTE 2027)",
+      "start": "2027-08-15",
+      "end": "2027-08-19",
+      "location": "Edmonton, AB",
+      "venue": "Edmonton Convention Centre",
+      "organizer": "University of Alberta (host)",
+      "url": "https://sites.google.com/ualberta.ca/timber/news-events/wcte2027",
+      "type": "Conference",
+      "region": "North America",
+      "online": false,
+      "description": "International research conference on timber engineering, including prefabricated mass timber systems such as CLT and glulam.",
+      "source_url": "https://sites.google.com/ualberta.ca/timber/news-events/wcte2027",
+      "last_verified": "2026-11-17",
+      "status": "confirmed"
     },
     {
       "id": "pci-committee-days-2027",
@@ -569,6 +660,57 @@
       "last_verified": "2026-11-13",
       "status": "confirmed",
       "airtable_id": "rec5l4Pg1RHIOtT8P"
+    },
+    {
+      "id": "nahb-ibs-2028",
+      "title": "NAHB International Builders' Show (IBS) 2028",
+      "start": "2028-02-22",
+      "end": "2028-02-24",
+      "location": "Las Vegas, NV",
+      "venue": "Las Vegas Convention Center",
+      "organizer": "National Association of Home Builders (NAHB)",
+      "url": "https://www.buildersshow.com/",
+      "type": "Trade Show",
+      "region": "North America",
+      "online": false,
+      "description": "NAHB's annual residential construction show, which hosts programming from its Building Systems Councils for modular and panelized home builders.",
+      "source_url": "https://www.nahb.org/education-and-events/meetings/future-nahb-leadership-meetings",
+      "last_verified": "2026-11-17",
+      "status": "confirmed"
+    },
+    {
+      "id": "precast-show-2028",
+      "title": "The Precast Show 2028",
+      "start": "2028-02-23",
+      "end": "2028-02-25",
+      "location": "Columbus, OH",
+      "venue": "",
+      "organizer": "National Precast Concrete Association (NPCA)",
+      "url": "https://precast.org/theprecastshow/",
+      "type": "Trade Show",
+      "region": "North America",
+      "online": false,
+      "description": "Trade show for the plant-produced precast concrete industry, with equipment, products and education.",
+      "source_url": "https://precast.org/theprecastshow/future-dates/",
+      "last_verified": "2026-11-17",
+      "status": "confirmed"
+    },
+    {
+      "id": "dach-holz-international-2028",
+      "title": "DACH+HOLZ International 2028",
+      "start": "2028-03-07",
+      "end": "2028-03-10",
+      "location": "Stuttgart, Germany",
+      "venue": "Messe Stuttgart",
+      "organizer": "",
+      "url": "",
+      "type": "Trade Show",
+      "region": "Europe",
+      "online": false,
+      "description": "Biennial European trade fair for roofing and timber construction, including timber-frame and prefabricated element building.",
+      "source_url": "https://www.messen.de/de/8142/stuttgart/dachholz-international-stuttgart/info",
+      "last_verified": "2026-11-17",
+      "status": "unconfirmed"
     }
   ]
 }
