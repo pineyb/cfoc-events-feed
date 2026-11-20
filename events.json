@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-17",
+  "generated": "2026-11-20",
   "notes": "Researched list of offsite / industrialized construction events. Dates checked against organizer pages where available; items marked unconfirmed come from secondary listings and are imported as Pending.",
   "events": [
     {
@@ -606,7 +606,7 @@
       "online": false,
       "description": "Latin America's largest offsite and modular construction exhibition, with construction-system showcases and a lecture arena.",
       "source_url": "https://www.cantonfair.net/updated-information/maior-exposicao-de-construcao-modular-offsite-da-america-latina-2027-june-sao-paulo-will-be-from-2027-06-15",
-      "last_verified": "2026-11-15",
+      "last_verified": "2026-11-20",
       "status": "unconfirmed"
     },
     {
@@ -624,6 +624,23 @@
       "description": "International research conference on timber engineering, including prefabricated mass timber systems such as CLT and glulam.",
       "source_url": "https://sites.google.com/ualberta.ca/timber/news-events/wcte2027",
       "last_verified": "2026-11-17",
+      "status": "confirmed"
+    },
+    {
+      "id": "mass-timber-plus-2027",
+      "title": "Mass Timber+ 2027",
+      "start": "2027-09-14",
+      "end": "2027-09-16",
+      "location": "Atlanta, GA",
+      "venue": "Georgia International Convention Center",
+      "organizer": "Forest Economic Advisors and WoodWorks",
+      "url": "https://www.masstimberplus.com/",
+      "type": "Conference",
+      "region": "North America",
+      "online": false,
+      "description": "A conference on industrialized wood-based construction, covering mass timber, light-frame and panelized modular systems, offsite manufacturing and DfMA.",
+      "source_url": "https://www.masstimberplus.com/",
+      "last_verified": "2026-11-20",
       "status": "confirmed"
     },
     {
@@ -709,7 +726,7 @@
       "online": false,
       "description": "Biennial European trade fair for roofing and timber construction, including timber-frame and prefabricated element building.",
       "source_url": "https://www.messen.de/de/8142/stuttgart/dachholz-international-stuttgart/info",
-      "last_verified": "2026-11-17",
+      "last_verified": "2026-11-20",
       "status": "unconfirmed"
     }
   ]
