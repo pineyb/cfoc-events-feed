@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-20",
+  "generated": "2026-11-23",
   "notes": "Researched list of offsite / industrialized construction events. Dates checked against organizer pages where available; items marked unconfirmed come from secondary listings and are imported as Pending.",
   "events": [
     {
@@ -203,7 +203,7 @@
       "online": false,
       "description": "Canada's largest built-environment show, combining Construct Canada, PM Expo, HomeBuilder & Renovator Expo and the World of Concrete Toronto pavilion, with a large education program.",
       "source_url": "https://informaconnect.com/the-buildings-show/construct-canada/",
-      "last_verified": "2026-11-17",
+      "last_verified": "2026-11-23",
       "status": "confirmed"
     },
     {
@@ -220,7 +220,7 @@
       "online": false,
       "description": "Guided visit to a timber-panel home factory and its show homes, organized by the UK offsite industry network BUILDOFFSITE.",
       "source_url": "https://www.buildoffsite.com/events",
-      "last_verified": "2026-11-17",
+      "last_verified": "2026-11-23",
       "status": "confirmed"
     },
     {
@@ -237,7 +237,7 @@
       "online": false,
       "description": "Annual European timber construction forum whose program includes sessions on prefabricated housing, digital prefabrication and prefabricated facade retrofits.",
       "source_url": "https://events.forum-holzbau.com/IHF/Program_E.php",
-      "last_verified": "2026-11-17",
+      "last_verified": "2026-11-23",
       "status": "confirmed"
     },
     {
@@ -272,7 +272,7 @@
       "online": false,
       "description": "Biennial world trade fair for architecture, materials and building systems; serial, modular and industrialized construction is a recurring theme.",
       "source_url": "https://bau-muenchen.com/en/press/at-the-fair/opening-hours",
-      "last_verified": "2026-11-17",
+      "last_verified": "2026-11-23",
       "status": "confirmed"
     },
     {
@@ -283,13 +283,13 @@
       "location": "Salt Lake City, UT",
       "venue": "Salt Lake Marriott Downtown at City Creek",
       "organizer": "Precast/Prestressed Concrete Institute (PCI)",
-      "url": "https://www.pci.org/PCI/News-Events/PCI_Events.aspx",
+      "url": "https://www.pci.org/PCI/PCI/News-Events/Event_Display.aspx?EventKey=27CONV",
       "type": "Conference",
       "region": "North America",
       "online": false,
       "description": "Annual convention of the precast concrete industry, with technical committee meetings and education, co-located with NPCA's The Precast Show exhibit floor.",
-      "source_url": "https://www.pci.org/PCI/News-Events/PCI_Events.aspx",
-      "last_verified": "2026-11-17",
+      "source_url": "https://www.pci.org/PCI/PCI/News-Events/Event_Display.aspx?EventKey=27CONV",
+      "last_verified": "2026-11-23",
       "status": "confirmed"
     },
     {
@@ -327,6 +327,23 @@
       "last_verified": "2026-11-06",
       "status": "confirmed",
       "airtable_id": "rec4t2ISkL4MQQlZp"
+    },
+    {
+      "id": "forum-bois-construction-2027",
+      "title": "17th Forum Bois Construction (FBC 2027)",
+      "start": "2027-02-10",
+      "end": "2027-02-12",
+      "location": "Paris, France",
+      "venue": "Grand Palais",
+      "organizer": "Forum Holzbau",
+      "url": "https://forum-holzbau.com/de/veranstaltungen",
+      "type": "Conference",
+      "region": "Europe",
+      "online": false,
+      "description": "France's annual congress on timber and industrialized wood construction, covering design, engineering and prefabricated building systems.",
+      "source_url": "https://forum-holzbau.com/de/veranstaltungen",
+      "last_verified": "2026-11-23",
+      "status": "confirmed"
     },
     {
       "id": "uli-housing-opportunity-conference-2027",
@@ -396,7 +413,7 @@
       "online": false,
       "description": "Trade fair near Warsaw focused on modular and prefabricated building, covering modular and timber-frame homes and factory production equipment.",
       "source_url": "https://warsawexpo.eu/en/fair-calendar/modular-prefab-expo/",
-      "last_verified": "2026-11-17",
+      "last_verified": "2026-11-23",
       "status": "confirmed"
     },
     {
@@ -413,7 +430,24 @@
       "online": false,
       "description": "The largest gathering of the mass timber supply chain — building tours, technical sessions and an expo covering CLT, glulam and prefabricated timber systems.",
       "source_url": "https://masstimberconference.com/portland-event/",
-      "last_verified": "2026-11-17",
+      "last_verified": "2026-11-23",
+      "status": "confirmed"
+    },
+    {
+      "id": "rebuild-madrid-2027",
+      "title": "REBUILD 2027",
+      "start": "2027-03-16",
+      "end": "2027-03-18",
+      "location": "Madrid, Spain",
+      "venue": "IFEMA Madrid",
+      "organizer": "REBUILD",
+      "url": "https://www.rebuildexpo.com/",
+      "type": "Trade Show",
+      "region": "Europe",
+      "online": false,
+      "description": "Spanish building-innovation exhibition and congress with a dedicated programme on offsite and industrialized construction.",
+      "source_url": "https://www.rebuildexpo.com/",
+      "last_verified": "2026-11-23",
       "status": "confirmed"
     },
     {
@@ -486,6 +520,23 @@
       "last_verified": "2026-11-05",
       "status": "confirmed",
       "airtable_id": "recRVTTEJLEGjAQOj"
+    },
+    {
+      "id": "pci-productivity-tour-2027",
+      "title": "PCI Productivity Tour 2027",
+      "start": "2027-05-03",
+      "end": "2027-05-06",
+      "location": "Aurora, CO",
+      "venue": "Hyatt Regency Denver Anschutz Medical Campus",
+      "organizer": "Precast/Prestressed Concrete Institute (PCI)",
+      "url": "https://www.pci.org/PCI/PCI/News-Events/Event_Display.aspx?EventKey=27TOUR",
+      "type": "Tour",
+      "region": "North America",
+      "online": false,
+      "description": "Multi-day tour of precast concrete plants focused on production methods and plant productivity.",
+      "source_url": "https://www.pci.org/PCI/PCI/News-Events/Event_Display.aspx?EventKey=27TOUR",
+      "last_verified": "2026-11-23",
+      "status": "confirmed"
     },
     {
       "id": "enr-futuretech-2027",
@@ -598,16 +649,16 @@
       "start": "2027-06-15",
       "end": "2027-06-18",
       "location": "São Paulo, Brazil",
-      "venue": "Anhembi",
+      "venue": "Sambódromo do Anhembi",
       "organizer": "Expo Construção Offsite",
       "url": "https://www.expoconstrucaooffsite.com.br/",
       "type": "Trade Show",
       "region": "Latin America",
       "online": false,
       "description": "Latin America's largest offsite and modular construction exhibition, with construction-system showcases and a lecture arena.",
-      "source_url": "https://www.cantonfair.net/updated-information/maior-exposicao-de-construcao-modular-offsite-da-america-latina-2027-june-sao-paulo-will-be-from-2027-06-15",
-      "last_verified": "2026-11-20",
-      "status": "unconfirmed"
+      "source_url": "https://www.expoconstrucaooffsite.com.br/",
+      "last_verified": "2026-11-23",
+      "status": "confirmed"
     },
     {
       "id": "wcte-2027",
@@ -661,6 +712,23 @@
       "status": "confirmed"
     },
     {
+      "id": "npca-convention-2027",
+      "title": "NPCA 62nd Annual Convention",
+      "start": "2027-10-07",
+      "end": "2027-10-09",
+      "location": "Honolulu, HI",
+      "venue": "Sheraton Waikiki",
+      "organizer": "National Precast Concrete Association (NPCA)",
+      "url": "https://precast.org/convention/future-dates/",
+      "type": "Conference",
+      "region": "North America",
+      "online": false,
+      "description": "Annual meeting of the plant-produced precast concrete industry, with education sessions and association business.",
+      "source_url": "https://precast.org/convention/future-dates/",
+      "last_verified": "2026-11-23",
+      "status": "confirmed"
+    },
+    {
       "id": "same-federal-small-business-conference-2027",
       "title": "SAME Federal Small Business Conference 2027",
       "start": "2027-11-17",
@@ -677,6 +745,23 @@
       "last_verified": "2026-11-13",
       "status": "confirmed",
       "airtable_id": "rec5l4Pg1RHIOtT8P"
+    },
+    {
+      "id": "internationales-holzbau-forum-2027",
+      "title": "31st Internationales Holzbau-Forum (IHF 2027)",
+      "start": "2027-12-01",
+      "end": "2027-12-03",
+      "location": "Innsbruck, Austria",
+      "venue": "",
+      "organizer": "Forum Holzbau",
+      "url": "https://events.forum-holzbau.com/IHF/index.php",
+      "type": "Conference",
+      "region": "Europe",
+      "online": false,
+      "description": "Annual European timber construction forum covering engineered timber, prefabrication and timber building systems.",
+      "source_url": "https://forum-holzbau.com/de/veranstaltungen",
+      "last_verified": "2026-11-23",
+      "status": "confirmed"
     },
     {
       "id": "nahb-ibs-2028",
@@ -719,15 +804,15 @@
       "end": "2028-03-10",
       "location": "Stuttgart, Germany",
       "venue": "Messe Stuttgart",
-      "organizer": "",
-      "url": "",
+      "organizer": "GHM Gesellschaft für Handwerksmessen",
+      "url": "https://www.dach-holz.com/en/",
       "type": "Trade Show",
       "region": "Europe",
       "online": false,
       "description": "Biennial European trade fair for roofing and timber construction, including timber-frame and prefabricated element building.",
-      "source_url": "https://www.messen.de/de/8142/stuttgart/dachholz-international-stuttgart/info",
-      "last_verified": "2026-11-20",
-      "status": "unconfirmed"
+      "source_url": "https://www.dach-holz.com/en/",
+      "last_verified": "2026-11-23",
+      "status": "confirmed"
     }
   ]
 }
