@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-23",
+  "generated": "2026-11-25",
   "notes": "Researched list of offsite / industrialized construction events. Dates checked against organizer pages where available; items marked unconfirmed come from secondary listings and are imported as Pending.",
   "events": [
     {
@@ -346,6 +346,24 @@
       "status": "confirmed"
     },
     {
+      "id": "advancing-prefabrication-2027",
+      "title": "Advancing Prefabrication 2027",
+      "start": "2027-02-23",
+      "end": "2027-02-25",
+      "location": "Phoenix, AZ",
+      "venue": "",
+      "organizer": "Advancing Construction",
+      "url": "",
+      "type": "Conference",
+      "region": "North America",
+      "online": false,
+      "description": "Annual meeting of owners, contractors, trade partners and manufacturers on adopting prefabrication and offsite delivery, now in its eleventh year.",
+      "source_url": "",
+      "last_verified": "2026-11-25",
+      "status": "confirmed",
+      "airtable_id": "recqZoZWA9z7sUUkC"
+    },
+    {
       "id": "uli-housing-opportunity-conference-2027",
       "title": "ULI Housing Opportunity Conference 2027",
       "start": "2027-02-23",
@@ -659,6 +677,23 @@
       "source_url": "https://www.expoconstrucaooffsite.com.br/",
       "last_verified": "2026-11-23",
       "status": "confirmed"
+    },
+    {
+      "id": "ic-summit-2027",
+      "title": "The IC Summit 2027",
+      "start": "2027-08-10",
+      "end": "2027-08-11",
+      "location": "Alexandria, VA",
+      "venue": "Virginia Tech Academic Building One",
+      "organizer": "ADL Ventures",
+      "url": "",
+      "type": "Summit",
+      "region": "North America",
+      "online": false,
+      "description": "Two-day summit on scaling industrialized construction that brings together owners, manufacturers, designers and contractors. Follows the Industrialized Housing Summit series.",
+      "source_url": "",
+      "last_verified": "2026-11-25",
+      "status": "unconfirmed"
     },
     {
       "id": "wcte-2027",
